@@ -40,6 +40,7 @@
   
  <div>
  <a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+ <a href="https://www.springboard.com/landing/cybersecurity-career-track/"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
  </div>
  
  ## Projects
